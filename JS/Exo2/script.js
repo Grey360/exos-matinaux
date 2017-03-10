@@ -51,5 +51,5 @@ class Calculatrice{
   }
 };
 bla= new Calculatrice();
-bla.division(2,2);
+bla.division(9,2);
 console.log(bla.history);
